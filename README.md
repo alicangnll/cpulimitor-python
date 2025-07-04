@@ -3,6 +3,9 @@
 ![Python Logo](https://img.shields.io/badge/python-3.x-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
+![cpulimitor](https://github.com/user-attachments/assets/b21344c1-ff61-481e-8d5d-6712e68811af)
+
+
 ## 📖 About
 `cpulimitor-python` is a simple Python script designed to limit the CPU usage of a running process on Linux/macOS systems to a specified percentage. It offers a convenient way to throttle CPU consumption for various applications, leveraging Python's ease of use and cross-platform capabilities via the `psutil` library.
 
